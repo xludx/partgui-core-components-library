@@ -110,13 +110,13 @@
     "directive-selector": [
       true,
       "attribute",
-      "app",
+      "partlib",
       "camelCase"
     ],
     "component-selector": [
       true,
       "element",
-      "app",
+      "partlib",
       "kebab-case"
     ],
     "use-input-property-decorator": true,
